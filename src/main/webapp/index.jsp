@@ -18,6 +18,7 @@
     <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
     <link href="css/index_style.css" rel="stylesheet" type="text/css">
     <link href="css/animate.min.css" rel="stylesheet" type="text/css">
+    <link href="css/mymain.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 <div id="menu" class="hover_animation menu_open" data-mark="false">
@@ -31,15 +32,17 @@
         <li><a href="article.jsp">博客</a></li>
         <li><a href="message.jsp">留言</a></li>
     </ul>
-    <div class="logo"><a>Mr.Yss</a></div>
+    <div class="logo"><a>二二二孟</a></div>
 </div>
 <div class="section" id="section1">
     <div class="fp-tablecell">
         <div class="page1">
             <div class="nav wow zoomIn" data-wow-duration="2s">
-                <h1>张二蛋</h1>
-                <p>正在向大牛路上奔走的小二蛋</p>
-                <a class="layui-btn layui-btn-normal" style="margin-top: 20px" href="#">Enter Blog</a>
+                <h1>二蛋</h1>
+                <p>正在向大牛路上奔走的二蛋</p>
+                <a class="layui-btn layui-btn-normal" style="margin-top: 20px" href="#">Log in</a>
+                <a class="layui-btn layui-btn-normal" style="margin-top: 20px" href="#">Sign in</a><br/>
+                <a class="caller">访客模式-></a>
             </div>
             <a class="next wow fadeInUp" data-wow-duration="2s" id="next"></a>
         </div>
@@ -53,8 +56,8 @@
                     <div class="inner wow fadeInDown" data-wow-delay=".2s">
                         <h1>热门文章</h1>
                         <p>
-                            很想给你写封信,告诉你这里的天气.
-                            <br>昨夜的那场电影,还有我的心情.
+                            作为编程男儿,我们只有努力努力更努力.
+                            <br>关注我，持续更新.
                         </p>
                     </div>
                 </div>
@@ -96,10 +99,10 @@
                                     </a>
                                 </h4>
                                 <div class="date">
-                                    2017年2月16日
+                                    时间
                                 </div>
                                 <p>
-                                    很想给你写封信,告诉你这里的天气. 昨夜的那场电影,还有我的心情.
+                                    简介
                                 </p>
                                 <a href="#" class="btn">
                                     阅读更多
@@ -160,9 +163,9 @@
             <div class="warp-box">
                 <div class="about">
                     <div class="inner">
-                        <h1 class="wow fadeInLeft">次元使者</h1>
+                        <h1 class="wow fadeInLeft">普通的程序员二蛋</h1>
                         <p class="wow fadeInRight">
-                            爱好游戏，动漫。闲来无事喜欢在一些不健康的场所虚度光阴，撸起代码就会废寝忘食。
+                            祝福所有的程序员/准程序员所有的努力都得到体现，一起进大厂.
                         </p>
                     </div>
                 </div>
@@ -177,9 +180,9 @@
                 <div class="layui-col-xs12 layui-col-sm6 layui-col-md4">
                     <div class="single-widget about">
                         <div class="footer-logo">
-                            <h2>燕十三</h2>
+                            <h2>二蛋</h2>
                         </div>
-                        <p>剑气纵横三万里，一剑光寒十九洲。</p>
+                        <p>请关注我!!!!</p>
                         <div class="button">
                             <a href="#" class="btn layui-btn layui-btn-normal">About Me</a>
                         </div>
@@ -201,9 +204,9 @@
                     <div class="single-widget contact">
                         <h2>联系我</h2>
                         <ul class="list">
-                            <li><i class="fa fa-map"></i>地址: 四川成都金牛区金科北路39号</li>
-                            <li><i class="fa fa-qq"></i>QQ: 930054439 </li>
-                            <li><i class="fa fa-envelope"></i>邮箱: 930054439@qq.com</li>
+                            <li><i class="fa fa-map"></i>地址: 湖北武汉湖北工业大学</li>
+                            <li><i class="fa fa-qq"></i>QQ: 2728773795 </li>
+                            <li><i class="fa fa-envelope"></i>邮箱: 2728773795@qq.com</li>
                         </ul>
                     </div>
                 </div>
@@ -214,7 +217,7 @@
         <div class="container">
             <div class="layui-row">
                 <div class="layui-col-xs12 layui-col-sm12 layui-col-md12 text-center">
-                    <p>Copyright &copy; 2018-2018 燕十三 All Rights Reserved V.3.1.3 蜀ICP备18008600号</p>
+                    <p>网站已备案</p>
                 </div>
             </div>
         </div>

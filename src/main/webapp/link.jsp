@@ -24,7 +24,7 @@
                 <a href="javascript:void(0)" class="header-logo" id="logo">Mr.Yss</a>
                 <nav class="nav" id="nav">
                     <ul>
-                        <li><a href="index.html">首页</a></li>
+                        <li><a href="index.jsp">首页</a></li>
                         <li><a href="article.jsp">博客</a></li>
                         <li><a href="message.jsp">留言</a></li>
                         <li><a href="link.jsp">友链</a></li>
